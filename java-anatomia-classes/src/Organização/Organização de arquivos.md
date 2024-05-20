@@ -1,0 +1,2 @@
+## Organização de Arquivos
+à medida que nosso sistema vai evoluindo, surgem novos arquivos (codigo fonte) em nossa estrutura de arquivos do projeto. Isso exige que seja realizado uma organização destes arquivos atraves de pacotes (packages).
